@@ -14,6 +14,7 @@
   - [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview)
   - [AutoGen](https://microsoft.github.io/autogen/stable/)
   - [CrewAI](https://docs.crewai.com/)
+  - [Strands Agents](https://strandsagents.com/latest/documentation/docs/)
 
 - CLI Coding Agents
   - [Claude Code](https://github.com/anthropics/claude-code)
