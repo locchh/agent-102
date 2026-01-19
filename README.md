@@ -1,5 +1,16 @@
 # agent-102
 
+- Official LLM Providers
+  - [GPT](https://platform.openai.com/docs/overview)
+  - [Claude](https://platform.claude.com/docs/en/home)
+  - [Mistral](https://docs.mistral.ai/)
+  - [GLM](https://docs.z.ai/guides/overview/quick-start)
+
+- Cloud Service LLM Providers
+  - [AWS Bedrock](https://aws.amazon.com/bedrock/)
+  - [Microsoft Foundry](https://ai.azure.com/doc/?tid=f01e930a-b52e-42b1-b70f-a8882b5d043b)
+  - [Google Gemini](https://ai.google.dev/gemini-api/docs/libraries)
+
 - Official LLM Providers SDKs
   - [OpenAI SDK](https://github.com/openai/openai-python)
   - [Anthropic SDK](https://github.com/anthropics/anthropic-sdk-python)
