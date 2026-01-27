@@ -11,7 +11,7 @@ uv venv .venv
 # Activate virtual environment
 source .venv/bin/activate
 
-# Init environment variables
+# Init environment variables (Optional)
 cp .env.example .env
 
 # Test call LLM

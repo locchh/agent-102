@@ -22,12 +22,6 @@ $ yarn dev
 NEXT_TURBOPACK_EXPERIMENTAL_USE_SYSTEM_TLS_CERTS=1 yarn dev
 ```
 
-**Note**: if `write_file` get error because not permission, you can give full permissions to user, group, and others:
-
-```bash
-sudo chmod 755 /tmp
-```
-
 You can get the Deployment URL and Assistant ID from the terminal output and langgraph.json file, respectively:
 
 - Deployment URL: `http://127.0.1:2024`
