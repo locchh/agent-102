@@ -1,0 +1,8 @@
+mypy
+ruff
+python-dotenv
+pytest
+deepagents
+tavily-python
+langchain_openai
+langgraph-cli[inmem]

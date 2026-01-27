@@ -1,0 +1,7 @@
+mypy
+ruff
+pytest
+python-dotenv
+langchain
+langchain-openai
+langgraph-cli[inmem]
