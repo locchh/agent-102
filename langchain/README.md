@@ -17,3 +17,5 @@
 - [Langchain Docs](https://docs.langchain.com/)
 
 - [Langchain Reference](https://reference.langchain.com/python/)
+
+- [LangSmith Platform](https://smith.langchain.com)
